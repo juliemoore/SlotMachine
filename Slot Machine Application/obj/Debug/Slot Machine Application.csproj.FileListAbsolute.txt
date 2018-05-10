@@ -1,0 +1,18 @@
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\bin\Debug\Slot Machine Application.exe.config
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\bin\Debug\Slot Machine Application.exe
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\bin\Debug\Slot Machine Application.pdb
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot_Machine_Application.Form1.resources
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot_Machine_Application.Properties.Resources.resources
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.csproj.GenerateResource.Cache
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.exe
+C:\Users\Julie Ann Moore\Documents\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.pdb
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\bin\Debug\Slot Machine Application.exe.config
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.exe
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.pdb
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\bin\Debug\Slot Machine Application.exe
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\bin\Debug\Slot Machine Application.pdb
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.csprojResolveAssemblyReference.cache
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot_Machine_Application.Form1.resources
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot_Machine_Application.Properties.Resources.resources
+F:\CCC\INFO 2830\Projects\Slot Machine Application\Slot Machine Application\obj\Debug\Slot Machine Application.csproj.GenerateResource.Cache
